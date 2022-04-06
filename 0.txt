@@ -1,0 +1,174 @@
+# Problem Solving Using C For Placement
+
+* LEVEL-1
+
+01. A chracter is vowel or consonent
+02. A character is alphabet or not
+03. Find ascii value of character
+04. Check a character is lower case or upper case
+05. An integer is negative or positive
+06. A number is odd or even
+07. Swap two number without using third variable
+08. Find area and perimeter of a circle
+09. Find LCM of two numbers
+10. Find HCF or GCD of two numbers
+11. Find greatest among two numbers using conditional operator and ternary operator
+12. Find greatest among three numbers using conditional and ternary operator
+13. Find number of digits of given number
+14. Find the sum of n natural numbers
+15. Find the sum of number between given range
+16. Print the reverse of given number
+17. Find factorial of a number using recursion and function
+18. Print the fibonacci series up to number
+19. Check a year is leap-year or not
+20. Check a number is prime or not
+21. Check a number is palindrome or not
+22. Check a number is armstrong or not
+23. Check a number is strong or not
+24. Check a number is perfect or not
+25. Check two numbers are friendly pair or not
+26. Check a number is automorphic or not
+27. Check a number is harshad number or not
+28. Check a number is abudant number or not
+29. Find the power of a number
+30. Find all factors of given number
+31. Find the sum of two fractions of numbers
+
+* LEVEL-2
+
+32. Find all prime number between range
+33. Find all armstong number between range
+34. Check the given number is sum of two prime number
+35. Program to replace the 0's with 1's in a given integer
+36. Convert a number  binary to decimal
+37. Convert a number decimal to binary
+38. Convert a number decimal to octal
+39. Convert a number octal to decimal
+40. Convert a number binary to octal
+41. Convert a number octal to binary
+42. Find the number of hand-shake between n students
+43. Find the quadrants of given value x and y
+44. Find number of day in a given month and year
+45. Find permutation in which n number of students hold r number of seats
+46. Count numbers of 3's in a given range
+47. Find number which has exactly 9 divisors between range
+48. Find the root of quadratic equation
+68. Translate a number to words
+69. Cont the possible decoding of the given number
+
+* Pattern Basis
+
+49. Display solid regular square star pattern
+50. Display a hollow square pattern
+51. Display half pyramid star pattern
+52. Display inverted half pyramid start pattern
+53. Display full pyramid star pattern
+54. Display full inverted pyramid star pattern
+55. Display full-hollow pyramid star pattern
+56. Display half inverted hollow pyramid star pattern
+57. Display half pyramid of number pattern
+58. Display half inverted pyramid of number pattern
+59. Display full pyramid of number pattern
+60. Display half-hollow pyramid of number pattern
+61. Display half inverted hollow pyramid of number pattern
+62. Display palindromic pyramid pattern of number
+63. Display palindromic pyramid pattern of alphabet
+64. Display palindromic pyramid pattern of number tringular shape
+65. Display diamond shape start pattern
+66. Display floyd's triangle
+67. Display pascal's triangle
+
+*  Basics on String
+
+70. Display string on the screen
+71. Find the length of string using strlen and without using strlen
+72. program to copy a string in other variable
+73. program to reverse a string
+74. program to concatenate two strings
+75. program to compare two string
+76. program to toggle all the character in a string
+77. program to count the number of vowels in a string
+78. program to remove the vowels from a given string
+79. program to check whether a string is palindrome or not
+80. program to sort the string according to alphabet
+81. program to remove brackets from given string
+82. program to remove charactes from a string except alphabet
+83. program to remove spaces from a string
+84. program to find the sum of number in a given string
+85. program to captalize the first and last chracter in a string
+86. program to find the frequency of each character in a string
+87. program to find the non-repeating character in string
+88. program to check whether two string are Anagrams or not
+89. Program to find all the patterns of 0(1+)0 in the given string
+90. program to replace a substring in a string
+91. program to count common subsequences in two string
+92. program to reverse the given string
+93. program to check if two string are same, if one string contailn wild characters
+
+* Array Implementation
+
+94. Program to insert an element at the begning in an array
+95. Program to insert an element at the end in an array
+96. Program to insert an element at the position in an array
+97. Write a program to delete element at the begning in the array
+98. Write a program to delete element at the begning in the array
+99. Program to delete an element at the position in an array
+100. Write a program to search the element position in the array
+101. Write a program to find the smallest and largest element in the array
+102. Write a program to find the sum of elements in the array
+103. Write a program to check whether two given array are same or not
+104. Write a program to check the type of array means in the array only even element or odd element or mixed of both
+105. Program to find the sum of perfect square of elements in the array
+106. Write a program to find the second smallest element in the array
+107. Write a program to sort the array
+108. Write a program to reverse an array
+109. Write a program to find the longest palindrome in the array
+110. Write a program to find the non-repeating or unique elements in the array 
+111. Write a program to find the repeating or duplicate element in the array
+112. Write a program to find and remove repeating or duplicate element in the array
+113. Write a program to find the minimum scaler product of two veactor
+114. Write a program to find the maximum scaler product of two veactor
+115. Write a program to check if the number of an array cen be made equal
+116. Write a program to find all the missing elements in a range
+117. Write a program to find all triplate sum of elements in an array
+118. Write a program to count the number of even and odd element in the array
+119. Write a program to find the frequency of number in the array
+120. Write a program to find the symetric term in the array
+121. Write a program to find the maximum product subarray in an array
+122. Write a program to check the given two array are disjoint or not
+123. Write a program to check the given array is subset of another array
+124. Write a program to find the sum of minimum absolute difference in array
+125. Write a program to sort the array according to frequency of elements
+126. Write a program to sort the array using another array
+127. Write a program to replace the elements by its corresponding rank in array
+128. Write a program to find the equilibrium index in array
+129. Write a program to rotate the array in left side
+130. Write a program to rotate the array in right side
+131. Write a program to convert an array into zig-zag fasion
+132. Write a program to merge two sorted array in single array
+133. Write a program to rearrange the array negative and positive
+134. Write a program to find median of two sorted array
+
+Matrix Implementation
+
+135. Write a program to display a matrix
+136. Write a program to find the addition of two matrix
+137. Write a program to find the subtraction of two matrix
+138. Write a program to find the multiplication of two matrix
+139. Write a program to find the transpose of matrix
+140. Write a program to find the given matrix is upper tringular or not
+141. Write a program to find the given matrix is lower tringular or not
+142. Write a program to find the maximum elements in each row of matrix
+143. Write a program to find the maximum elements in each columns of matrix
+144. Write a program to find the sum of each row and columns of a matrix
+145. Write a program to find the saddle point coordinates of a fiven matrix
+146. Write a program to find the sum of elements in zig-zag sequanece of a given matrix
+147. Write a program to find the sum of boundry elements in given matrix
+148. Write a program to display the matrix in spiral form
+149. Write a program to rotate the matrix by k times
+150. Write a program to rotate the matrix by 90 degree in clockwise direction
+
+Advance Array Imaplementation
+151. Write a program to move all the negative elements to one side of the array 
+152. Write Program to find the union and intersection of two array
+153. Write a program to find all pairs on integer array whose sum is equal to given number
